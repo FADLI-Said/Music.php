@@ -2,31 +2,37 @@
 	{
 		"tit_titre" : "Blinding Lights",
 		"tit_chanteur" : "The Weeknd",
-		"genre(s)" : "R&B, Pop"
+		"genre(s)" : "R&B, Pop",
+		"video" : "https://www.youtube.com/watch?v=fHI8X4OXluQ&ab_channel=TheWeekndVEVO"
 	},
 	{
 		"tit_titre" : "Bohemian Rhapsody",
 		"tit_chanteur" : "Queen",
-		"genre(s)" : "Rock"
+		"genre(s)" : "Rock",
+		"video" : "https://www.youtube.com/watch?v=fJ9rUzIMcZQ&ab_channel=QueenOfficial"
 	},
 	{
 		"tit_titre" : "Shape of You",
 		"tit_chanteur" : "Ed Sheeran",
-		"genre(s)" : "Pop"
+		"genre(s)" : "Pop",
+		"video" : "https://www.youtube.com/watch?v=JGwWNGJdvx8&ab_channel=EdSheeran"
 	},
 	{
 		"tit_titre" : "Smells Like Teen Spirit",
 		"tit_chanteur" : "Nirvana",
-		"genre(s)" : "Rock"
+		"genre(s)" : "Rock",
+		"video" : "https://www.youtube.com/watch?v=hTWKbfoikeg&ab_channel=NirvanaVEVO"
 	},
 	{
 		"tit_titre" : "Someone Like You",
 		"tit_chanteur" : "Adele",
-		"genre(s)" : "Soul"
+		"genre(s)" : "Soul",
+		"video" : "https://www.youtube.com/watch?v=hLQl3WQQoQ0&ab_channel=AdeleVEVO"
 	},
 	{
 		"tit_titre" : "Uptown Funk",
 		"tit_chanteur" : "Bruno Mars",
-		"genre(s)" : "Funk, Pop"
+		"genre(s)" : "Funk, Pop",
+		"video" : "https://www.youtube.com/watch?v=OPf0YbXqDm0&ab_channel=MarkRonsonVEVO"
 	}
 ]

@@ -12,14 +12,16 @@ function getMusicTitle(): string
     $json = json_decode($data, true);
     foreach ($json as $value) {
 
-        $myCards .= "<div class='card col-10 col-lg-3 shadow-lg p-3 mb-5 rounded bg-black text-light '>
+        $myCards .= "<a href=" . $value["video"] . " class='card col-10 col-lg-3 shadow-lg p-3 mb-5 rounded bg-black text-light'>
+                    <div>
                         <img src='https://img1.picmix.com/output/stamp/normal/6/5/9/5/945956_d2f50.gif' class='card-img-top' alt='...'>
                         <div class='card-body'>
                             <h1 class='card-title fs-4'>" . $value["tit_titre"] . "</h1>
                             <p class='card-text'>" . $value["tit_chanteur"] . "</p>
                             <p class='card-text position-absolute bottom-0 end-0 p-3'>" . $value["genre(s)"] . "</p>
                         </div>
-                    </div>";
+                    </div>
+                    </a>";
     }
     return $myCards;
 
