@@ -1,0 +1,32 @@
+[
+	{
+		"tit_titre" : "Blinding Lights",
+		"tit_chanteur" : "The Weeknd",
+		"genre(s)" : "R&B, Pop"
+	},
+	{
+		"tit_titre" : "Bohemian Rhapsody",
+		"tit_chanteur" : "Queen",
+		"genre(s)" : "Rock"
+	},
+	{
+		"tit_titre" : "Shape of You",
+		"tit_chanteur" : "Ed Sheeran",
+		"genre(s)" : "Pop"
+	},
+	{
+		"tit_titre" : "Smells Like Teen Spirit",
+		"tit_chanteur" : "Nirvana",
+		"genre(s)" : "Rock"
+	},
+	{
+		"tit_titre" : "Someone Like You",
+		"tit_chanteur" : "Adele",
+		"genre(s)" : "Soul"
+	},
+	{
+		"tit_titre" : "Uptown Funk",
+		"tit_chanteur" : "Bruno Mars",
+		"genre(s)" : "Funk, Pop"
+	}
+]
